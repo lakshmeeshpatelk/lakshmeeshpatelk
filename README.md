@@ -8,24 +8,24 @@ I’m comfortable with my current stack and continue to improve it by shipping r
 
 Alongside this, I’m actively learning TypeScript and NestJS to write more maintainable, type-safe, and scalable backend systems.
 
-##🖥 Tech Stack
+🖥 Tech Stack
 - **Frontend:** React, JavaScript  
 - **Backend:** Node.js, Python  
 - **Databases:** SQL, MongoDB  
 - **Tools:** Git, GitHub  
 - **Currently Learning:** TypeScript, NestJS
 
-##⌛️ Current Focus
+⌛️ Current Focus
 - Building and maintaining full stack applications
 - Designing clean APIs and backend workflows
 - Improving data handling and application structure
 - Incrementally adopting TypeScript in production-style code
 
-##🛠 Projects
+🛠 Projects
 My projects are documented here on GitHub.  
 Each repository represents hands-on learning through building, refactoring, and improvement.
 
-##☎️ Contact
+☎️ Contact
 - Email: lakshmeesh121@gmail.com
 - GitHub: https://github.com/lakshmeeshpatelk
 - LinkedIn: https://www.linkedin.com/in/lakshmeesh-patel-k/
