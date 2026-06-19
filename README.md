@@ -1,6 +1,6 @@
 # Hey, I'm Lakshmeesh 👋
 
-Full-stack developer. Self-taught. I build and ship production web apps — not just side projects.
+Full-stack developer. Self-taught. I build and ship production web apps 
 
 Currently freelancing and actively looking for my first full-time role at an early-stage startup.
 
