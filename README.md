@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:lakshmeesh121@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -95,5 +95,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmeeshpatelk&hide_border=true" width="60%"/>
 </p>
