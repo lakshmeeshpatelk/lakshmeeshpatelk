@@ -89,9 +89,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmeeshpatelk&show_icons=true&theme=default&hide_border=true" width="47%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmeeshpatelk&layout=compact&theme=default&hide_border=true" width="47%"/>
 </p>
 
 <p align="center">
